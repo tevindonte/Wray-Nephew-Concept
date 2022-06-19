@@ -1,0 +1,170 @@
+:root { 
+  --black: #000000;
+  --laser-lemon: #fdf61c;
+  --salem: #129340;
+  --white: #ffffff;
+ 
+  --font-size-l: 24px;
+  --font-size-m: 12px;
+  --font-size-s: 11px;
+  --font-size-xl: 27px;
+  --font-size-xs: 9px;
+  --font-size-xxl: 27.2px;
+  --font-size-xxxl: 27.3px;
+ 
+  --font-family-ibm_plex_mono: "IBM Plex Mono", Helvetica;
+  --font-family-industry-black: "Industry-Black", Helvetica;
+  --font-family-sequel100black-95: "Sequel100Black-95", Helvetica;
+  --font-family-sequel100black-95☞-extraexpanded: "Sequel100Black-95☞-ExtraExpanded", Helvetica;
+}
+.sequel100black-95-normal-white-11px {
+  color: var(--white);
+  font-family: var(--font-family-sequel100black-95);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sequel100black-95-normal-white-27-2px {
+  color: var(--white);
+  font-family: var(--font-family-sequel100black-95);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sequel100black-95-normal-white-27-3px {
+  color: var(--white);
+  font-family: var(--font-family-sequel100black-95);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sequel100black-95-normal-white-27-2px-2 {
+  color: var(--white);
+  font-family: var(--font-family-sequel100black-95);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sequel100black-95-normal-white-27-2px-3 {
+  color: var(--white);
+  font-family: var(--font-family-sequel100black-95);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sequel100black-95-normal-white-12px {
+  color: var(--white);
+  font-family: var(--font-family-sequel100black-95);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sequel100black-95-normal-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-sequel100black-95);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sequel100black-95-normal-laser-lemon-24px {
+  color: var(--laser-lemon);
+  font-family: var(--font-family-sequel100black-95);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sequel100black-95-normal-white-17px {
+  color: var(--white);
+  font-family: var(--font-family-sequel100black-95);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sequel100black-95-normal-laser-lemon-39px {
+  color: var(--laser-lemon);
+  font-family: var(--font-family-sequel100black-95);
+  font-size: 39px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sequel100black-95-normal-laser-lemon-54-5px {
+  color: var(--laser-lemon);
+  font-family: var(--font-family-sequel100black-95);
+  font-size: 54.5px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sequel100black-95-normal-laser-lemon-20-7px {
+  color: var(--laser-lemon);
+  font-family: var(--font-family-sequel100black-95);
+  font-size: 20.7px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sequel100black-95-normal-white-54-5px {
+  color: var(--white);
+  font-family: var(--font-family-sequel100black-95);
+  font-size: 54.5px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sequel100black-95-extraexpanded-normal-black-32-6px {
+  color: var(--black);
+  font-family: var(--font-family-sequel100black-95☞-extraexpanded);
+  font-size: 32.6px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sequel100black-95-normal-white-26px {
+  color: var(--white);
+  font-family: var(--font-family-sequel100black-95);
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sequel100black-95-normal-laser-lemon-17px {
+  color: var(--laser-lemon);
+  font-family: var(--font-family-sequel100black-95);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sequel100black-95-extraexpanded-normal-black-10px {
+  color: var(--black);
+  font-family: var(--font-family-sequel100black-95☞-extraexpanded);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.industry-black-black-9px {
+  color: var(--black);
+  font-family: var(--font-family-industry-black);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.sequel100black-95-normal-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-sequel100black-95);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
